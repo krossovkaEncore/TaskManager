@@ -1,7 +1,10 @@
 [
-  {
-    "name": "1234",
-    "content": "321",
-    "author": "rerererererer"
-  }
+    {
+        "id": 2,
+        "title": "написать скрипт автоматизации",
+        "description": "попросить нейронку это сделать",
+        "status": "todo",
+        "author": "ChatGPT from F1zz",
+        "created_at": "2026-11-16 17:59:07"
+    }
 ]
